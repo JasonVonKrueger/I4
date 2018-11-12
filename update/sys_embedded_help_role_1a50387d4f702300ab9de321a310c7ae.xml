@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_253123_inv4.beams_user" name="x_253123_inv4.beams_user">d650387d4f702300ab9de321a310c7ac</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-27 15:23:51</sys_created_on>
+        <sys_id>1a50387d4f702300ab9de321a310c7ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>d650387d4f702300ab9de321a310c7ac</sys_name>
+        <sys_package display_value="Intelsat Inventory v4" source="x_253123_inv4">d2d3e4f14f702300ab9de321a310c762</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Intelsat Inventory v4">d2d3e4f14f702300ab9de321a310c762</sys_scope>
+        <sys_update_name>sys_embedded_help_role_1a50387d4f702300ab9de321a310c7ae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-27 15:23:51</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
